@@ -8,6 +8,11 @@ The â€žM2M Translator is a work that was done within the two-week-long project â
 
 In a world that gets more and more connected, we are surrounded by machines talking to each other. Mostly, for us it is not possible to know what they are actually communicating. That this fact could get really disturbing or even terrifying is shown by the little scenario of Paula and her smart home on the following pictures:
 
+
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_1.jpg" height="80" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_2.jpg" height="80" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_3.jpg" height="80" style="float: right; margin-left: 30px;"/>
+
 ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_1.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_2.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_3.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_4.jpg)
 
 ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_5.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_6.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_7.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_8.jpg)
