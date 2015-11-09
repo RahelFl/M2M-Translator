@@ -43,7 +43,7 @@ The demonstrator is connected to an Arduino board. Using the Johnny Five library
 
 ## The App prototype
 
-![Sketch_setting](https://github.com/RahelFl/M2M-Translator/blob/master/img/151012_App.png)
+![Sketch_setting](https://github.com/RahelFl/M2M-Translator/blob/master/img/App.png)
 
 On the website, a prototype of the M2M translator is shown. It tells the user what is actually going on at the smart home demonstrator and reacts to input. If for example the alarm clock is switched off and lights go on, you can follow the devices’ communication translated to understandable language on the screen. If the user wants to stop an action he can do that using the little cross displayed after each action.
 
@@ -51,6 +51,8 @@ If an action is stopped via the app, this information is sent to the server and 
 
 ## Demo
 
-<a href="https://vimeo.com/144001575" target="_blank" title="Demo of M2M-Translator on vimeo">< alt="Demo of M2M-Translator on vimeo" /></a>
 
-<iframe src="https://player.vimeo.com/video/144001575" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/144001575">The M2M Translator</a> from <a href="https://vimeo.com/user45321594">Rahel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+![Demo on Vimeo](https://vimeo.com/144001575)
+
+
+<a href="https://vimeo.com/144001575" target="_blank" title="Demo of M2M-Translator on vimeo">< alt="Demo of M2M-Translator on vimeo" /></a>
