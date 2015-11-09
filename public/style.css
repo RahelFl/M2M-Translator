@@ -1,0 +1,65 @@
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+}
+
+button {
+
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  width: 40px;
+  height: 22px;
+
+}
+
+
+.images{
+
+  position: relative;
+  left:0;
+  top: 0;
+}
+
+.main{
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+#bgimg{
+
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#screens{
+position: absolute;
+top: 89px;
+left: 376px;
+
+}
+#stop{
+  position: absolute;
+  top: 286px;
+  left: 572px;
+}
+
+#go_on{
+  position: absolute;
+  top: 386px;
+  left: 572px;
+}
+
+/*#stopCoffee{
+  position: absolute;
+  top: 476px;
+  left: 572px;
+}*/
