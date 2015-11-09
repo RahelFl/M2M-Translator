@@ -25,8 +25,6 @@ In a world that gets more and more connected, we are surrounded by machines talk
 
 
 
-
-
 ## The setting
 
 
