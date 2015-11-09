@@ -8,6 +8,12 @@ The „M2M Translator is a work that was done within the two-week-long project �
 
 In a world that gets more and more connected, we are surrounded by machines talking to each other. Mostly, for us it is not possible to know what they are actually communicating. That this fact could get really disturbing or even terrifying is shown by the little scenario of Paula and her smart home on the following pictures:
 
+![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_1.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_2.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_3.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_4.jpg)
+
+![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_5.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_6.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_7.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_8.jpg)
+
+![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_9.jpg) ![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_10.jpg)
+
 ## The setting
 
 To prototype the translator in a smart home environment, I decided to built an demonstrator consisting of representatives of an alarm clock, a lamp and a coffee machine. Both the alarm clock and the lamp have a physical button to switch it on or off and a led. The coffee maker has three led’s that turn on and off one after the other to give the impression of coffee dripping into the pot.
