@@ -12,13 +12,13 @@ In a world that gets more and more connected, we are surrounded by machines talk
 <img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_1.jpg" height="170" style="float: right; margin-left: 30px;"/>
 <img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_2.jpg" height="170" style="float: right; margin-left: 30px;"/>
 <img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_3.jpg" height="170" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_4.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_5.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_6.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_7.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_8.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_9.jpg" height="160" style="float: right; margin-left: 30px;"/>
-<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_10.jpg" height="160" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_4.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_5.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_6.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_7.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_8.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_9.jpg" height="170" style="float: right; margin-left: 30px;"/>
+<img src="https://github.com/RahelFl/M2M-Translator/blob/master/img/Szenario_10.jpg" height="170" style="float: right; margin-left: 30px;"/>
 
 
 ![Solution](https://github.com/RahelFl/M2M-Translator/blob/master/img/The solution.jpg)
