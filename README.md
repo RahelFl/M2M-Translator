@@ -1,6 +1,6 @@
 # M2M-Translator
 
-![Title](M2M-Translator\img\M2M-Translator\img)
+![Title](https://github.com/RahelFl/M2M-Translator/blob/master/img/Titel.png)
 
 The „M2M Translator is a work that was done within the two-week-long project „Johnny-five-is-alive“. The task was to build an prototype of an IoT object that communicates with a website using Johnny Five.
 
